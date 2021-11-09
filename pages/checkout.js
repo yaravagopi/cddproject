@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import Head from 'next/head'
 import Head from 'next/head'
 import { SiteContext, ContextProviderComponent } from "../context/mainContext"
 import DENOMINATION from "../utils/currencyProvider"
